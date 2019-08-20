@@ -1,8 +1,8 @@
 # Add your variables here
 
 def calculator do
-  first_number = num1.gets.chomp().to_f 
-  second_number = num2.gets.chomp().to_f && != 0 
+  first_number = 5.to_f 
+  second_number = 2.to_f 
   sum = first_number + second_number
   
 end 
